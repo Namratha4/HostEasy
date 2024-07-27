@@ -1,0 +1,66 @@
+{
+  "title": "Entire townhouse in San Rafael, California",
+  "location": "San Rafael, California",
+  "guests": 6,
+  "bedrooms": 3,
+  "beds": 3,
+  "baths": 2,
+  "rating": 4.98,
+  "reviews": 60,
+  "host": {
+    "name": "Cord",
+    "superhost": true,
+    "years_hosting": 11,
+    "profile_picture": "https://a0.muscache.com/im/users/6663681/profile_pic/1414638445/original.jpg?im_w=240"
+  },
+  "highlights": [
+    {
+      "title": "Designed by",
+      "details": "Beverley David Thorne, Cord Struckmann"
+    },
+    {
+      "title": "Featured in",
+      "details": "Wall Street Journal, September 2023; Dwell, December 2017"
+    },
+    {
+      "title": "Awards won",
+      "details": "Case Study House Program, 1963"
+    }
+  ],
+  "description": "Stay at a gem of modern architecture, Case Study House 26! Of the few remaining Case Study Houses, it is the only one available for vacation rental, a true classic of California Case Study House program. Built in 1963 and well-maintained and where needed updated for modern living comfort, it will make for a truly unique experience. Even if you're not a design lover, this place offers a serene places to relax, enjoy nature, food & wine, or visit the many nearby sites (Napa, Pacific Ocean, SF). The space: On the 'Best Bay Area Getaway' list by Thrillist, January 2021. It is the only house on Airbnb that is part of the 'Iconic House' network. High speed internet allows a several people to work from here comfortably. It's worth mentioning that this house is managed directly by the owners of Case Study House 26, and is not subcontracted out to others, ensuring a direct and honest communication from initial inquiry to your enjoyable stay at our place. Our ratings and reviews show it. Note: This listing is for hospitality stays, i.e. for overnight stays for the number of people requested. Events like chef dinners, parties, offsites, or professional or commercial photography and recording are not allowed. Penalties equal to the perceived value will be charged for violations to these house rules. Weekly and monthly discounts are factored into the airbnb rate. Additional discount are not offered. Guest access: Entire House and garden, w/ exception of one office space. Guests have access to extensive library on modern design & architecture and history of the house. Other things to note: Kids over 14 are OK. The house is not fully childproof. If you're children are younger than 14 and you like to stay, please contact us. No pets. No smoking. No parties. From time to time our 'G' calendar sync seems to fail. We try to keep our calendar updated, but please excuse if not all available days are actually available.",
+  "sleeping_arrangements": [
+    {
+      "room": "Bedroom 1",
+      "bed": "1 queen bed",
+      "image": "https://a0.muscache.com/im/pictures/d8476307-7995-4187-a763-e7fe315d7cce.jpg?im_w=720"
+    },
+    {
+      "room": "Bedroom 2",
+      "bed": "1 queen bed",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-10075316/original/9d475d66-30a0-422c-9fc4-e0c5cd958bde.jpeg?im_w=720"
+    },
+    {
+      "room": "Bedroom 3",
+      "bed": "1 queen bed",
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-10075316/original/4aa39fbb-570a-48e5-affd-42fb9eb1a6e1.jpeg?im_w=720"
+    }
+  ],
+  "amenities": [
+    "Garden view",
+    "Mountain view",
+    "Kitchen",
+    "Wifi",
+    "Dedicated workspace",
+    "Free parking on premises",
+    "TV",
+    "Washer",
+    "Dryer",
+    "Exterior security cameras on property",
+    "ac"
+  ],
+  "price_per_night": 1088,
+  "availability": {
+    "check_in": "2024-08-17",
+    "check_out": "2024-08-22"
+  }
+}
