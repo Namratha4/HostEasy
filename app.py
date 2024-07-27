@@ -8,7 +8,7 @@ import streamlit as st
 from langchain.prompts import PromptTemplate
 
 
-openai_api_key = 'sk-proj-v0Z8cb6SO1dWVlrBFdvPT3BlbkFJzCa3ryjlV2D4A3P8gfrK'
+openai_api_key = ''
 
 # Load JSON data
 file = "californias-iconic-case-study-house.json"
